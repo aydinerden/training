@@ -1,1 +1,2 @@
 File C content
+I added a new line
