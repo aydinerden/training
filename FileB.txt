@@ -1,1 +1,2 @@
 File B content
+Some other content for file B

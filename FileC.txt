@@ -1,2 +1,4 @@
 File C content
 I added a new line
+
+Some other content for file C
