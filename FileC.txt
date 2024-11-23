@@ -1,1 +1,2 @@
 File C content
+Some other content for file C
